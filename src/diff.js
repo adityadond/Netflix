@@ -2,7 +2,11 @@ import React from 'react'
 
 function diff() {
   return (
-    <div>diff</div>
+    <div>
+        <h1> Hi I'm Aditya</h1>
+
+
+    </div>
   )
 }
 
