@@ -17,7 +17,7 @@ function Row({ title, fetchUrl,isLargeRow }) {
     fetchData();
   }, [fetchUrl]);
 
-//Aditya dond
+//react dev
 
   return (
     <div className="row">
